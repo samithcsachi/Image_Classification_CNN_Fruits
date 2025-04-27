@@ -78,7 +78,7 @@ cd E:/Image_Classification_CNN_Fruits
 Activate the Virtual Environment 
 
 ```bash
-py -3.11 - m venv imageclassification
+py -3.11 -m venv imageclassification
 ```
 Activate the venv environment
 
@@ -96,7 +96,7 @@ pip install pykernel
 python -m ipykernel install --name=imageclassification
 ```
 
-Open the code in jypter lab and select the kernal imageclassification and run the jupyter notebook. 
+Open the code in Jupyter Lab and select the kernel imageclassification and run the Jupyter notebook. 
 
 
 
